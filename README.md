@@ -17,4 +17,5 @@ I'm a Full-Stack Developer studying at Becode Antwerp, Belgium.
 
 <p align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
+  <img src="https://little.kylerconway.com/images/golang-what.gif" width="300"><img src="https://intro.rustbridge.com/img/ferris.gif" width="300">
 </p>
