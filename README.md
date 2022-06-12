@@ -13,8 +13,9 @@ I'm a Full-Stack Developer studying at Becode Antwerp, Belgium.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelMontei&theme=onedark&show_icons=true)](https://github.com/MichaelMontei/github-readme-stats)
 
 
-<p align="center">
+<!--<p align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
   <img src=https://media.giphy.com/media/63QBDnFppGqb5o997D/giphy.gif width="100">
 </p>
+>
