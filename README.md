@@ -11,12 +11,12 @@ I'm a Full-Stack Developer studying at Becode Antwerp, Belgium.
 - ⚙️ I use daily: .html, .css, .php, .js
 <br>
 
-<div align="center">
+
 
 ![MichaelMontei's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelMontei&theme=onedark&show_icons=true)
 
 
-
+<div align="center">
 <p align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
