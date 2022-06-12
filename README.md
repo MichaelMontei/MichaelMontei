@@ -8,7 +8,6 @@ I'm a Full-Stack Developer studying at Becode Antwerp, Belgium.
 - 💬 Ask me about anything!
 - ☕️ I’m coffeer.
 - 📫 How to reach me: code-me@hotmail.com
-- ⚙️ I use daily: .html, .css, .php, .js
 - ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
