@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm [Michael Monteiro](https://github.com/MichaelMontei) 👋
 
 I'm a Full-Stack Developer studying at Becode Antwerp, Belgium.
 
@@ -6,8 +6,15 @@ I'm a Full-Stack Developer studying at Becode Antwerp, Belgium.
 - 🌱 I’m currently learning PhP
 - 👯 I’m looking to collaborate on projects, design, branding, development, design thinking.
 - 💬 Ask me about anything!
+- ☕️ I’m coffeer.
 - 📫 How to reach me: code-me@hotmail.com
 - ⚙️ I use daily: .html, .css, .php, .js
+
+**Front-end**
+
+<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/css3.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/js.png"></code>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelMontei&theme=onedark&show_icons=true)](https://github.com/MichaelMontei/github-readme-stats)
