@@ -9,7 +9,7 @@ I'm a Full-Stack Developer studying at Becode Antwerp, Belgium.
 - ☕️ I’m coffeer.
 - 📫 How to reach me: code-me@hotmail.com
 - ⚙️ I use daily: .html, .css, .php, .js
-
+<br>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelMontei&theme=onedark&show_icons=true)](https://github.com/MichaelMontei/github-readme-stats)
