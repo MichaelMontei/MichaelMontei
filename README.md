@@ -12,8 +12,8 @@ I'm a Full-Stack Developer studying at Becode Antwerp, Belgium.
 <br>
 
 
-[![MichaelMontei's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelMontei&theme=onedark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelMontei&layout=compact&theme=onedark)
+[![MichaelMontei's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelMontei&theme=onedark&show_icons=true)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelMontei&layout=compact&theme=onedark)]
 
 
 <p align="center">
