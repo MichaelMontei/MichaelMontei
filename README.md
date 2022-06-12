@@ -21,6 +21,9 @@ I'm a Full-Stack Developer studying at Becode Antwerp, Belgium.
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p>
 
+
+![Visitor Count](https://profile-counter.glitch.me/MichaelMontei/count.svg)
+
 <!--
 **Front-end**
 
