@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm a Full-Stack Developer studying at Becode Antwerp, Belgium.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
