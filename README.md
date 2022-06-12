@@ -24,8 +24,6 @@ I'm a Full-Stack Developer studying at Becode Antwerp, Belgium.
 
   
 ![Visitor Count](https://profile-counter.glitch.me/MichaelMontei/count.svg)
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<br />
 </div>
 <!--
 **Front-end**
@@ -35,3 +33,5 @@ I'm a Full-Stack Developer studying at Becode Antwerp, Belgium.
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/js.png"></code>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelMontei&layout=compact&theme=onedark)
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
