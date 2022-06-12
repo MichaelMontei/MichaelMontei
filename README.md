@@ -10,6 +10,8 @@ I'm a Full-Stack Developer studying at Becode Antwerp, Belgium.
 - ⚙️ I use daily: .html, .css, .php, .js
 - 😄 
 - ⚡ Fun fact: 
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelMontei&theme=onedark&show_icons=true)](https://github.com/MichaelMontei/github-readme-stats)
 
 
