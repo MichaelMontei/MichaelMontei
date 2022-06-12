@@ -1,6 +1,6 @@
 ### Hi there I'm [Michael Monteiro](https://github.com/MichaelMontei) 👋
 
-:writing_hand: I'm a Full-Stack Developer studying at Becode Antwerp, Belgium.
+I'm a Full-Stack Developer studying at Becode Antwerp, Belgium.
 
 - 🔭 I’m currently studying at Becode.
 - 🌱 I’m currently learning PhP
