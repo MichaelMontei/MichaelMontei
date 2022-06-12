@@ -8,8 +8,6 @@ I'm a Full-Stack Developer studying at Becode Antwerp, Belgium.
 - 💬 Ask me about anything!
 - 📫 How to reach me: code-me@hotmail.com
 - ⚙️ I use daily: .html, .css, .php, .js
-- 😄 
-- ⚡ Fun fact: 
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelMontei&theme=onedark&show_icons=true)](https://github.com/MichaelMontei/github-readme-stats)
@@ -18,5 +16,4 @@ I'm a Full-Stack Developer studying at Becode Antwerp, Belgium.
 <p align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
-  <img src="https://little.kylerconway.com/images/golang-what.gif" width="300"><img src="https://intro.rustbridge.com/img/ferris.gif" width="300">
 </p>
