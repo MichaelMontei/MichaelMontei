@@ -19,7 +19,7 @@ I'm a Full-Stack Developer studying at Becode Antwerp, Belgium.
 <p align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
-  <img src="https://media.giphy.com/media/63QBDnFppGqb5o997D/giphy.gif" width="100">
+  <img src="https://media.giphy.com/media/5PiJ8mvP2RsgT3w9yR/giphy.gif" width="100">
 </p>
 
 <!--
