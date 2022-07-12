@@ -26,6 +26,7 @@ I'm a Full-Stack Developer studying at Becode Antwerp, Belgium.
 <p align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+  <img src="https://user-images.githubusercontent.com/103993166/178481250-62964597-16a5-4f92-822a-e3b00980d308.gif" width="100">
 </p>
 
   
