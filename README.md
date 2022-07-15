@@ -20,6 +20,7 @@ I'm a Full-Stack Developer studying at Becode Antwerp, Belgium.
 ![Phpstorm](http://img.shields.io/badge/-PHPStorm-181717?style=flat-square&logo=phpstorm&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![Mariadb](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 <br>
 
 
