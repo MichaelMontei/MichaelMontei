@@ -23,6 +23,7 @@ I'm a Junior Full-Stack Developer studying at Becode Antwerp, Belgium.
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Typescript](https://shields.io/badge/TypeScript-3178C6?style=flat-square&logo=android&logoColor=white)
+![React](https://img.shields.io/badge/-ReactJs-61DAFB?style=flat-square&logo=react&logoColor=white)
 <br>
 
 
