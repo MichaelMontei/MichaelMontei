@@ -1,6 +1,6 @@
 ### Hi there I'm [Michael Monteiro](https://github.com/MichaelMontei) 👋
 
-I'm a Junior Full-Stack Developer studying at Becode Antwerp, Belgium.
+I'm a Junior Full-Stack Developer studying at Becode Antwerp, Belgium. <hr>
 I am currently looking for an internship or job opportunity as a Full Stack web Developer where I can keep learning!
 “Learning never exhausts the mind.” “For the things we have to learn before we can do them, we learn by doing them.”
 
