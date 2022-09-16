@@ -13,6 +13,7 @@ I am currently looking for an internship or job opportunity as a Full Stack web 
 - 💬 Ask me about anything!
 - ☕️ I’m coffeer.
 - 📫 How to reach me: code-me@hotmail.com
+- Linkedin: https://www.linkedin.com/in/michael-monteiro-0aaa2a20/
 <hr>
 
 - ## 𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
