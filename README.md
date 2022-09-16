@@ -5,6 +5,7 @@ I'm a Junior Full-Stack Developer studying at Becode Antwerp, Belgium. <br>
 I am currently looking for an internship or job opportunity as a Full Stack web Developer where I can keep learning!
 “Learning never exhausts the mind.” “For the things we have to learn before we can do them, we learn by doing them.”
 
+<hr>
 
 - 🔭 I’m currently studying at Becode.
 - 🌱 I’m currently learning PhP
