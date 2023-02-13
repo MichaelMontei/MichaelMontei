@@ -8,7 +8,7 @@ I am currently looking for an internship or job opportunity as a Full Stack web 
 <hr>
 
 - 🔭 I graduated at Becode.
-- 🔭 Currently doing my internship @Multimedium.
+- 🔭 Currently lookin for an opportunity.
 - 🌱 I’m currently learning PhP Back-end and Vue Front-end.
 - 👯 I’m looking to collaborate on projects, design, branding, development, design thinking.
 - 💬 Ask me about anything!
